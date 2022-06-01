@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Warrior](/14.png)
+![Warrior](/14a.png)
 <!--
 **OfficialTeKniKo/OfficialTeKniKo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
